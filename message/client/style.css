@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    font-family: 'Microsoft Yahei';
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+.signbox {
+    width: 450px;
+    height: 250px;
+    background-color: #ccc;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -125px  0 0 -225px;
+}
+#signtxt {
+    font-size: 100px;
+    text-align: center;
+}
